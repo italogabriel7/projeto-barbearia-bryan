@@ -16,7 +16,7 @@ localização
 redes sociais
 contato via WhatsApp
 
- Levantamento de Requisitos
+ Levantamento de Requisitos:
 
 O cliente informou:
 
@@ -37,7 +37,7 @@ Objetivo principal: Fortalecer a marca
 
 
 
- Tecnologias Utilizadas
+ Tecnologias Utilizadas:
  
 HTML5
 
@@ -71,7 +71,7 @@ Botão flutuante de WhatsApp
 
 Layout responsivo
 
-Estrutura do Projeto
+Estrutura do Projeto:
 
 index.html
 
@@ -88,7 +88,7 @@ README.md
 O projeto publicado em:
 
 
-👨‍💻 Desenvolvido por
+👨‍💻 Desenvolvido por:
 
 Ítalo Gabriel
 
