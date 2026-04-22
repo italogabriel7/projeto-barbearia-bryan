@@ -65,7 +65,7 @@ O projeto publicado em:
 
 Estudante de Engenharia de Software (5º período)
 
-🌐 Contato : https://bio.site/italogabbriel
+🌐 Contato : 
 
 https://bio.site/italogabbriel
 ::}
