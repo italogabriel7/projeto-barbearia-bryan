@@ -21,37 +21,66 @@ contato via WhatsApp
 O cliente informou:
 
 Nome: Bryan BarberX
+
 Tempo de mercado: 4 anos
+
 Localização: Dirceu, Teresina - PI
+
 Público-alvo: Jovens
+
 Faixa de preço: Popular
+
 Estilo visual: Moderno / Escuro
+
+
 Objetivo principal: Fortalecer a marca
 
+
+
  Tecnologias Utilizadas
+ 
 HTML5
+
 CSS3
+
 JavaScript
+
 AOS (Animate On Scroll)
+
 Font Awesome
 
  Funcionalidades Implementadas
+ 
 Header com identidade visual
+
 Link direto para Instagram
+
 Hero section com chamada principal
+
 Botão de agendamento via WhatsApp
+
 Seção Sobre
+
 Serviços com preços
+
 Google Maps integrado
+
 Footer com créditos
+
 Botão flutuante de WhatsApp
+
 Layout responsivo
 
 Estrutura do Projeto
+
 index.html
+
 style.css
+
 script.js
+
 assets/
+
 README.md
 
  Publicação Online
