@@ -66,5 +66,3 @@ Estudante de Engenharia de Software (5º período)
 
 https://bio.site/italogabbriel
 ::}
-https://bio.site/italogabbriel
-::}
