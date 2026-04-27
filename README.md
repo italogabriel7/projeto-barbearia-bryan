@@ -74,12 +74,9 @@ README.md
 
 ## 🚀 Publicação Online
 
-O projeto pode ser publicado em:
-
-* GitHub Pages
-* Netlify
+O projeto foi publicado em:
 * Vercel
-
+https://projeto-barbearia-bryan.vercel.app/
 ---
 
 ## 👨‍💻 Desenvolvido por
